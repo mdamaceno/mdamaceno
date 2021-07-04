@@ -1,6 +1,6 @@
 ### Hi there 👋. My name is Marco Damaceno and I'm a programmer with focus on Test Driven Development (TDD). Test before. Test after. Test always!
 
-- Programing languages I use: Ruby, Javascript, PHP and C#.
+- Programming languages I use: Ruby, Javascript, PHP and C#.
 - Human languages I speak: Portuguese, English (be patient) and Spanish (be patient)
 - My site - https://marcodamaceno.dev
 - My LinkedIn profile - https://www.linkedin.com/in/marcodamaceno/
